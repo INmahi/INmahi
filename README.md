@@ -1,4 +1,3 @@
-![I am a Selft-Taught Developer](https://user-images.githubusercontent.com/96917595/152844994-7ce725ed-a1ab-404d-aba9-d4f8deb57481.gif)
 ## Hi, I am Ishat Noor Mahi 👋
 
 <img align="right" src="https://user-images.githubusercontent.com/96917595/153999700-d4d968db-f3d6-4e27-b1a9-a21264e36eab.png" alt="img">
