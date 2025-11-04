@@ -20,7 +20,14 @@
 - 💼 Previously freelanced on **Fiverr** as a Web Developer
 
 ---
+<!-- GitHub Stats -->
+### 📊 GitHub Analytics  
+<div align="center">
+  
+![Nabila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=INMahi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INMahi&layout=compact&theme=radical)
 
+</div>
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
