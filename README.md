@@ -9,7 +9,7 @@
   📍 Mymensingh, Bangladesh &nbsp;|&nbsp; 🧑‍🎓 Studying Statistics @ <b>SUST</b>
 </p>
 <p align="center">
-  🌐 <i><a href="https://inmlink.netlify.app/" target="blank" style="color:teal;"></a></i>
+  🌐 <i><a href="https://inmlink.netlify.app/" target="blank" style="color:teal;">Contact</a></i>
 </p>
 ---
 
