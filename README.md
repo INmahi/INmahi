@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Ishat Noor Mahi 👋</h1>
 
 <p align="center">
-  <b>MERN Developer</b> · <b>Machine Learning Enthusiast</b> · <b>Robotics Geek</b> 🤖  
+  <b>DATA ANALYST</b> · <b>Machine Learning Enthusiast</b> · <b>Robotics Geek</b> 🤖  
 </p>
 
 <p align="center">
