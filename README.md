@@ -23,7 +23,7 @@
 - 🎓 2nd-year **Statistics** student at **Shahjalal University of Science and Technology (SUST)**
 - ⚡ Building **LLM-powered automation systems** — support copilots, AI advisors, and intelligent scrapers
 - 🌐 Shipping full-stack **web apps** with Next.js, React, TypeScript, Supabase & Netlify
-- 🤖 Active in **Robotics** — line-following robots, IoT systems, ESP32 & Arduino builds
+- 🤖 Active in **RoboSUST** — line-following robots, IoT systems, ESP32 & Arduino builds
 - 📊 Grounding it all in **statistics**: regression, Bayesian methods, and data analysis with Python, R & SPSS
 - 🎯 Long-term: **Forward Deployed Engineering** → AI-automation startup in Bangladesh 🇧🇩
 
@@ -48,8 +48,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=INmahi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INmahi&layout=compact&theme=radical)
+![GitHub Stats](https://inmahi-gh-stats.netlify.app/api?username=INmahi)
+![Top Languages](https://inmahi-gh-stats.netlify.app/api/top-langs?username=INmahi)
 
 </div>
 
